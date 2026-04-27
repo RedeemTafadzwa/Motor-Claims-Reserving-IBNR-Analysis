@@ -1,5 +1,5 @@
-# Motor-Claims-Reserving-IBNR-Analysis
-Motor Claims Reserving & IBNR Analysis
+# Motor Claims Reservingand IBNR Analysis
+
 Project Overview:
 
 This project focuses on short-term insurance reserving analysis for a motor insurance portfolio. The objective was to investigate claims development patterns, clean and prepare claims transaction data, and estimate the required IBNR (Incurred But Not Reported) reserve as at 31 December 2024.
@@ -12,9 +12,9 @@ A portfolio manager identified concerns that motor insurance claims were develop
 
 An actuarial review was required to:
 
-Clean and validate raw claims transaction data
-Build a cumulative paid claims development triangle
-Apply the Chain-Ladder reserving method
-Estimate the required IBNR reserve
+1)Clean and validate raw claims transaction data
+2)Build a cumulative paid claims development triangle
+3)Apply the Chain-Ladder reserving method
+4)Estimate the required IBNR reserve
 
 The objective was to support more accurate reserving and improve portfolio profitability monitoring.
