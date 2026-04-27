@@ -1,4 +1,4 @@
-# Motor Claims Reservingand IBNR Analysis
+# Motor Claims Reserving and IBNR Analysis
 
 Project Overview:
 
