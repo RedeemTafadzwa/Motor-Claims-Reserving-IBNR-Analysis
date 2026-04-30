@@ -22,4 +22,4 @@ An actuarial review was required to:
 
 The objective was to support more accurate reserving and improve portfolio profitability monitoring.
 
-More deatils on the findinga and recommenadtions for this project can be found in the Memorandum attached above.
+More deatils on this project can be found in the Memorandum attached above.
