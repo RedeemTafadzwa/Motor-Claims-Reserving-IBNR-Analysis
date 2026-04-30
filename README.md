@@ -13,8 +13,13 @@ A portfolio manager identified concerns that motor insurance claims were develop
 An actuarial review was required to:
 
 1)Clean and validate raw claims transaction data
+
 2)Build a cumulative paid claims development triangle
+
 3)Apply the Chain-Ladder reserving method
+
 4)Estimate the required IBNR reserve
 
 The objective was to support more accurate reserving and improve portfolio profitability monitoring.
+
+More deatils on the findinga and recommenadtions for this project can be found in the Memorandum attached above.
